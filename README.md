@@ -15,7 +15,7 @@ This repository contains various Power BI projects, including:
 - Real-world business use cases
 
 ## Project 1: IBM HR Analytics Dashboard
-![IBM HR Analytics Dashboard](https://github.com/ychoi1001/Power-BI/blob/main/project1.gif?raw=true)
+![p1](https://github.com/user-attachments/assets/910f04cc-eb7d-490b-bd40-1c7d5ae05375)
 <img width="1101" alt="s1" src="https://github.com/user-attachments/assets/9f920abc-8f0e-4ff6-a740-e6d128626e61">
 <img width="1100" alt="s2" src="https://github.com/user-attachments/assets/5d5da0ca-38f6-48db-abdd-6005cbee3cc0">
 <img width="1099" alt="s3" src="https://github.com/user-attachments/assets/a0a44cc5-00d8-4ec4-b9a9-f3882f0394da">
