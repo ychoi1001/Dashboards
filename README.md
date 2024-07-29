@@ -15,6 +15,7 @@ This repository contains various Power BI projects, including:
 - Real-world business use cases
 
 ## Project 1: IBM HR Analytics Dashboard
+![IBM HR Analytics Dashboard](https://github.com/ychoi1001/Power-BI/blob/main/project1.gif?raw=true)
 - The **Overview** page delivers insights into crucial HR metrics, including total and current employees, as well as overall attrition figures. It offers a broad perspective on workforce trends and key performance indicators.
 - The **Details** page features a comprehensive data table that allows users to download and filter data for detailed examination and analysis.
 - The **Attrition Analytics** page examines various aspects of employee turnover, such as resignations and terminations, and underscores the impact of attrition rates on company performance and hiring processes.
